@@ -1,0 +1,20 @@
+body{
+  background-color: #f39abd !important;
+  color: #3dbf8c !important;
+}
+
+button {
+  margin: 1rem !important;
+}
+
+.card {
+  margin: 1rem !important;
+}
+
+.btn-primary {
+  background-color: #3dbf8c !important;
+}
+
+.btn-danger {
+  background-color: !important;
+}
